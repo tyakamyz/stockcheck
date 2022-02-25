@@ -64,8 +64,8 @@ def kakaotalk_message_send(name, url):
 # 배치 목록
 def batch_list():
 
-    #now = datetime.datetime.now()
-    #print(now)
+    now = datetime.datetime.now()
+    print(now)
     
     # ZV-E10
     name = 'ZV-E10'
